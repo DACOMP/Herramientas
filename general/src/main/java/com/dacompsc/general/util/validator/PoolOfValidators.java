@@ -1,8 +1,7 @@
 package com.dacompsc.general.util.validator;
 
+import android.support.design.widget.TextInputLayout;
 import android.widget.EditText;
-
-import com.google.android.material.textfield.TextInputLayout;
 
 import java.util.ArrayList;
 import java.util.HashMap;

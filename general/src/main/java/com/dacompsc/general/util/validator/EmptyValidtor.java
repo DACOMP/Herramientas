@@ -1,6 +1,6 @@
 package com.dacompsc.general.util.validator;
 
-import androidx.annotation.NonNull;
+import android.support.annotation.NonNull;
 
 /**
  * @author isaaclopez

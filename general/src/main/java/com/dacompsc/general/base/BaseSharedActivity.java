@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.dacompsc.shared.base;
+package com.dacompsc.general.base;
 
 import android.content.Context;
 import android.support.annotation.IntegerRes;
@@ -11,10 +11,11 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.view.inputmethod.InputMethodManager;
 
+
 import com.afollestad.materialdialogs.MaterialDialog;
-import com.dacompsc.shared.R;
-import com.dacompsc.shared.util.validator.EditTextValidator;
-import com.dacompsc.shared.util.validator.PoolOfValidators;
+import com.dacompsc.general.R;
+import com.dacompsc.general.util.validator.EditTextValidator;
+import com.dacompsc.general.util.validator.PoolOfValidators;
 
 /**
  * @author isaaclopez
