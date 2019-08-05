@@ -1,6 +1,6 @@
 apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
-group = 'com.github.DACOMP'
+group = 'com.github.DACOMP' 
 
 android {
     compileSdkVersion 28
